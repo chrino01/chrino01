@@ -11,9 +11,9 @@ I'm a Junior Data Analyst and Data Scientist with a solid foundation in data ana
 - **Tools**: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
 ### 🚀 Projects
-- **[Sales Analysis Dashboard](https://github.com/yourusername/sales-analysis-dashboard)**: Developed an interactive sales analysis dashboard to track key performance indicators (KPIs), including sales trends, customer segmentation, and revenue analysis.
-- **[Predictive Model for Customer Churn](https://github.com/yourusername/customer-churn-model)**: Built a predictive model using machine learning techniques to identify factors contributing to customer churn and predict at-risk customers.
-- **[Data Cleaning and Preprocessing Pipeline](https://github.com/yourusername/data-cleaning-pipeline)**: Created an automated pipeline for data cleaning and preprocessing, improving the efficiency of data preparation for analysis.
+- **[Sales Analysis](https://github.com/chrino01/market_analyst)**: Exploring and Extracting Insights from Store Sales Data.
+- **[EXPERT SYSTEM FOR DIAGNOSING LIVER DISEASE STAGES USING THE XGBOOST ALGORITHM]([https(https://github.com/chrino01/EXPERT-SYSTEM-FOR-DIAGNOSING-LIVER-DISEASE-STAGES-USING-THE-XGBOOST-ALGORITHM))**: Built a predictive model using machine learning techniques to identify liver staging disease.
+
 
 ### 💬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
