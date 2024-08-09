@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Christopher Bernard Selo Harjuno ]!
+# Hi there 👋, I'm Christopher Bernard Selo Harjuno !
 
 ### Junior Data Analyst and Data Scientist
 
