@@ -15,16 +15,8 @@ I'm a Junior Data Analyst and Data Scientist with a solid foundation in data ana
 - **[Predictive Model for Customer Churn](https://github.com/yourusername/customer-churn-model)**: Built a predictive model using machine learning techniques to identify factors contributing to customer churn and predict at-risk customers.
 - **[Data Cleaning and Preprocessing Pipeline](https://github.com/yourusername/data-cleaning-pipeline)**: Created an automated pipeline for data cleaning and preprocessing, improving the efficiency of data preparation for analysis.
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chrino01&show_icons=true&theme=radical)
-
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=chrino01)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ✨ Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=chrino01)
-
 ### 💬 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherbernardsh@gmail.com)
+
