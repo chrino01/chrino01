@@ -16,13 +16,13 @@ I'm a Junior Data Analyst and Data Scientist with a solid foundation in data ana
 - **[Data Cleaning and Preprocessing Pipeline](https://github.com/yourusername/data-cleaning-pipeline)**: Created an automated pipeline for data cleaning and preprocessing, improving the efficiency of data preparation for analysis.
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chrino01&show_icons=true&theme=radical)
 
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chrino01)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✨ Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
+![Visitor Count](https://komarev.com/ghpvc/?username=chrino01)
 
 ### 💬 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/yourusername/)
